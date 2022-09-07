@@ -1,0 +1,14 @@
+﻿"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Users\Felipe Tizey\source\repos\BANCO DE DADOS - TESTE\x64\Debug\BANCO DE DADOS - TESTE.exe". Símbolos carregados.
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\ntdll.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\kernel32.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\KernelBase.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\msvcp140d.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140d.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140_1d.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\ucrtbased.dll". 
+O thread 0x1bcc foi fechado com o código 0 (0x0).
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\kernel.appcore.dll". 
+"BANCO DE DADOS - TESTE.exe" (Win32): Carregado "C:\Windows\System32\msvcrt.dll". 
+O thread 0x3614 foi fechado com o código 0 (0x0).
+O thread 0x4304 foi fechado com o código 0 (0x0).
+O programa "[10816] BANCO DE DADOS - TESTE.exe" foi fechado com o código 0 (0x0).
